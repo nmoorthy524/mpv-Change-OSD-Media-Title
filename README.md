@@ -1,2 +1,4 @@
 # mpv-change-osd-title
-Sets the OSD title to also display percentage watched, current chapter, and number of frames dropped
+This script will set the OSD title to also display percentage watched, current chapter, and number of frames dropped and update it whenever one of the values has changed.
+
+Place the file in your mpv/scripts/ folder.
