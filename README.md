@@ -5,4 +5,4 @@ This script will set the OSD media title to also display percentage watched, cur
 ![example](https://cloud.githubusercontent.com/assets/6493496/19949529/658621e6-a10f-11e6-920f-30814e67f1e2.png)
 
 ## Usage
-Place the file in your mpv/scripts/ folder.
+Place `change-OSD-media-title.lua` in your `/mpv/scripts/` folder.
