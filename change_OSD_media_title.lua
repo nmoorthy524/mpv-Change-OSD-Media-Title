@@ -10,7 +10,7 @@ function set_osd_title()
 	
 
 	if mp.get_property_osd("chapter") ~= "" then
-		chapter = " • Chapter " .. mp.get_property_osd("chapter")
+		chapter = " • Chapter: " .. mp.get_property_osd("chapter")
 	end
 
 
